@@ -55,3 +55,4 @@ interface ParkingRepo : CrudRepository<Parkedinfo, String> {
 
 @Table("parkinginfo")
 data class Parkedinfo(@Id val slot: String?, val vacancy: String?)
+data class User(val emailid: String, val password: String)
