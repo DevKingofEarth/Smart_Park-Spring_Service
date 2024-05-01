@@ -42,7 +42,7 @@ After starting the application, you can:
 - Check real-time availability of parking spaces
 
 ## Contributing
-This is just a Final year Project, But, still, Contributions are welcome! Please feel free to submit pull requests.
+This is just a part of my Final year Project, But, still, Contributions are welcome!
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
