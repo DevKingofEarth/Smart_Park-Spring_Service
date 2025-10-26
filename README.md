@@ -2,6 +2,7 @@ Smart Park Spring Service
 
 ## Overview
 Smart Park Spring Service is a Spring Boot application written in Kotlin using Gradle as the build system. It's designed to handle user requests for signing in/up and managing parking lot information.
+This code is underdeveloped prototype and has several things to be implemented yet, and yet to be tested, hence, it is decided to be archived.
 
 ## Features
 - User authentication (sign in/up)
